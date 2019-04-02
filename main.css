@@ -24,6 +24,19 @@ header {
   font-size: 1.5em;
 }
 
+.replyfyi-logo-base{
+  fill: blue;
+  position: relative;
+  top: .3em;
+  stroke: blue;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.replyfyi-logo-i {
+  stroke: white
+}
+
 .topnav {
   display: none;
   padding: 0 10px 0 0;
