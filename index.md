@@ -22,8 +22,7 @@ datePublished: 2018-3-30
 		</div>
 		<div class="mc-field-group">
 			<label for="mce-LNAME">Last Name </label>
-			<input typ
-			e="text" value="" name="LNAME" class="" id="mce-LNAME">
+			<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 		</div>
 			<div id="mce-responses" class="clear">
 				<div class="response" id="mce-error-response" style="display:none"></div>
