@@ -7,7 +7,7 @@ datePublished: 2018-3-30
 <div class="content">
 
 <p>Have you recently heard or read anything that sounded so wrong that you wish the person who said or wrote it would understand <em>why</em> they were wrong?<p>
-<p>We are creating YouTube videos of us crafting the most effective response to the hardes't posts in your feed.</p>
+<p>We are creating YouTube videos of us crafting the most effective response to the hardest posts in your feed.</p>
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
@@ -37,7 +37,6 @@ datePublished: 2018-3-30
 </div>
 
 <!--End mc_embed_signup-->
-
 
 </div>
 </main>
