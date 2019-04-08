@@ -1,0 +1,12 @@
+---
+layout: base.html
+tags: post
+---
+<div class="content">
+    <br/>
+    <amp-youtube data-videoid="{{ videoid }}" layout="responsive" width="480" height="270"></amp-youtube>
+    {{ author }}
+    -
+    {{ date }}
+    {{ content | safe }}
+</div>

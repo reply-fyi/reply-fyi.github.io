@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: base.html
 title: Reply.FYI
 datePublished: 2018-3-30
 ---
@@ -12,12 +12,15 @@ datePublished: 2018-3-30
 		<li>Actionable Tactics</li>
 		<li>Real Examples</li>
 		</ul>
-		<p><a href="https://www.youtube.com/channel/UCuzeko4AclLdTLVLv3-xOBA">Subscribe on Youtube</a></p>
+		<hr/>
+		<p>In the First Episode of ReplyFYI Bentley Davis and Alex Weissenfels workshop a reply to a post about "the dangers of vaccines" that was re-shared by Bentley's father.</p>
+    <amp-youtube data-videoid="v376k0Mddhg" layout="responsive" width="480" height="270"></amp-youtube>
+		<hr/>
 		<!-- Begin Mailchimp Signup Form -->
 		<div id="mc_embed_signup">
 		<form action="https://eexpression.us20.list-manage.com/subscribe/post?u=cbd9bdad23050f541c0ada5aa&amp;id=71fdca9105" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			<div id="mc_embed_signup_scroll">
-			<h2>Subscribe to our mailing list</h2>
+			<h2>Stay informed on what we are doing:</h2>
 		<div class="mc-field-group">
 			<label for="mce-EMAIL">Email Address </label>
 			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
